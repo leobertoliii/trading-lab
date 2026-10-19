@@ -1,0 +1,7 @@
+/* Font self-hosted (Outfit e Nunito Sans, licenza SIL OFL 1.1: https://openfontlicense.org). Solo sottoinsieme latino. */
+@font-face { font-family:'Nunito Sans'; font-style:normal; font-weight:400; font-display:swap; src:url('fonts/nunito-sans-400.woff2') format('woff2'); }
+@font-face { font-family:'Nunito Sans'; font-style:normal; font-weight:600; font-display:swap; src:url('fonts/nunito-sans-400.woff2') format('woff2'); }
+@font-face { font-family:'Nunito Sans'; font-style:normal; font-weight:700; font-display:swap; src:url('fonts/nunito-sans-400.woff2') format('woff2'); }
+@font-face { font-family:'Outfit'; font-style:normal; font-weight:500; font-display:swap; src:url('fonts/outfit-500.woff2') format('woff2'); }
+@font-face { font-family:'Outfit'; font-style:normal; font-weight:600; font-display:swap; src:url('fonts/outfit-500.woff2') format('woff2'); }
+@font-face { font-family:'Outfit'; font-style:normal; font-weight:700; font-display:swap; src:url('fonts/outfit-500.woff2') format('woff2'); }
